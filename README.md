@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubham Gupta</h1>
 <h3 align="center">A passionate developer from India</h3>
-<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham301020002&label=Profile%20views&color=0e75b6&style=flat" alt="shubham301020002" /> </p>
 
@@ -14,10 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://twitter.com/shubhamrg30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/shubhamrg30" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shubham-gupta-246426201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shubham-gupta-246426201/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/shubham_30102002/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/shubham_30102002/" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/https://www.hackerrank.com/profile/shubhamrg30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerrank.com/profile/shubhamrg30" height="30" width="40" /></a>
+<a href="https://twitter.com/shubhamrg30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shubhamrg30" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shubham-gupta-246426201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham-gupta-246426201/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/shubham_30102002/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shubham_30102002/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
