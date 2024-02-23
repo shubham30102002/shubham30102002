@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **StudyNotion**
 
-- 🌱 I’m currently learning **Mangodb, Expressjs**
+- 🌱 I’m currently learning **Mongodb, Expressjs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shubham30102002](https://github.com/shubham30102002)
 
